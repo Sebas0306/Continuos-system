@@ -11,6 +11,7 @@ export default {
               { text: 'Conceptos de sistemas de control', link: '/about/conceptosSistemas.md' },
               { text: 'Sistema Continuo', link: '/about/sistemasContinuos.md' },
               { text: 'Sistema Discreto', link: '/about/sistemasDiscretos.md' },
+              { text: 'Simulador', link: '/about/simulador.md' },
             ]
           }
         ],
