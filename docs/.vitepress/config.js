@@ -12,6 +12,7 @@ export default {
               { text: 'Sistema Continuo', link: '/about/sistemasContinuos.md' },
               { text: 'Sistema Discreto', link: '/about/sistemasDiscretos.md' },
               { text: 'Simulador', link: '/about/simulador.md' },
+              { text: 'Pendulo', link: '/about/pendulo.md' },
             ]
           }
         ],
