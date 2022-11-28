@@ -1,0 +1,2 @@
+import{_ as e,c as t,o as a,b as o}from"./app.bcdb663a.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/simulador.md"}'),r={name:"about/simulador.md"},s=o("iframe",{id:"inlineFrameExample",title:"Inline Frame Example",width:"920",height:"880",src:"https://codepen.io/frank890417/full/ORWqdJ"},`
+`,-1),n=[s];function i(c,d,l,m,p,_){return a(),t("div",null,n)}const h=e(r,[["render",i]]);export{f as __pageData,h as default};
