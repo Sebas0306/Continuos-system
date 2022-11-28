@@ -8,7 +8,7 @@ El **péndulo** ​es un sistema físico que puede oscilar bajo la acción gravi
 **Imagen de un péndulo simple**
 
 Al ver el sistema del péndulo, podemos percatarnos que se mantendrá en movimiento continuo hasta que otra fuerza se encargue de detenerlo.
-<a href="https://www.youtube.com/watch?v=eTEIu0Z3Q6U&ab_channel=FasterAcademy">Video explicativo para simular un pendulo simple en Simulink.</a>
+<a href="https://www.youtube.com/watch?v=eTEIu0Z3Q6U&ab_channel=FasterAcademy" target="_blank">Video explicativo para simular un pendulo simple en Simulink.</a>
 ![](../assets/simulinksimple.png)
 **Simulador de un péndulo simple en Simulink**
 
